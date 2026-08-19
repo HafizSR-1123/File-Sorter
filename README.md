@@ -142,3 +142,7 @@ The file is moved into the corresponding category folder
 ## Download 
 
 The latest Windows Executable can be downloaded from the [Releases] page
+
+# Author 
+
+Programmed by: Muhammad Hafiz Bin Abdul Aziz 
